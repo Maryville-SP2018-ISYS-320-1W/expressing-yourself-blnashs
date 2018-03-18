@@ -8,12 +8,13 @@
  	Your predicted values for the expressions
 	1.  8
 	2.  11
-	3.  12
-	4.  21658
-	5.  168
+	3.  12  wrong
+	4.  21658  wrong
+	5.  168 wrong 
 	6.   11
 	7.  "2+2" 7
 	8. 7 "2+2"
+	misinterpreted what an expression would do
  
  	After testing the expressions in the main method, indicate above if your predictions were correct.
 */
